@@ -10,3 +10,4 @@ Set up CNAME's under DNS in my domain account manager
 - **Host:** danielhaberstock.com **Points To:** dhaberst.github.io
 - **Host:** www **Points To:** dhaberst.github.io
 Got a template at http://www.free-css.com/free-css-templates
+Added an empty .nojekyll file in root dir
