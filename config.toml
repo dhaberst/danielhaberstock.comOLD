@@ -1,6 +1,6 @@
 baseurl = ""
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Daniel Haberstock"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -13,7 +13,7 @@ publishDir = "docs"
 
 [params]
   avatar = "profile.png"
-  author = "Chris Turner"
+  author = "Daniel Haberstock"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -21,11 +21,8 @@ publishDir = "docs"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
+  Github = "dhaberst"
+  Email = "daniel.haberstock1@gmail.com"
 
 ## Main Menu
 [[menu.main]]
