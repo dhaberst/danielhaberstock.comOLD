@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Freelancer Theme"
 theme = "hugo-freelancer-theme"
-
+publishDir = "docs"
 
 [params]
 
