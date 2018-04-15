@@ -40,7 +40,7 @@ publishDir = "docs"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Daniel Haberstock"
-        subtitle = "Developer - Programmer - Gopher"
+        subtitle = "Developer - Programmer - Lover of Yogurt"
 
 
     [params.portfolio]
@@ -62,6 +62,11 @@ publishDir = "docs"
         # The about text is splitted into a left and right column
         left = "I'm a recent Computer Science graduate from the University of Alberta!"
         right = "I love all things from coding to kickboxing! Make sure to checkout my portfolio to see some stuff I've been working on."
+
+        [params.about.button]
+            text = "My Resume"
+            link = "./static/Resume.pdf"
+            icon = "download"
 
 
     [params.contact]
@@ -104,7 +109,3 @@ publishDir = "docs"
             [[params.footer.social.networks]]
                 icon = "fa-github"
                 link = "//github.com/dhaberst"
-
-            [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
