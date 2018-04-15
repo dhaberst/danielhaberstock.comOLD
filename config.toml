@@ -65,7 +65,7 @@ publishDir = "docs"
 
         [params.about.button]
             text = "My Resume"
-            link = "./static/Resume.pdf"
+            link = "Resume.pdf"
             icon = "download"
 
 
